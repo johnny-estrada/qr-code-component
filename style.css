@@ -1,4 +1,8 @@
-* {
+*,
+*::after,
+*::before {
+	margin: 0;
+	padding: 0;
 	box-sizing: inherit;
 }
 
@@ -7,13 +11,72 @@ html {
 }
 
 body {
+	background: hsl(212, 45%, 89%);
 	box-sizing: border-box;
-	font-family: 'Roboto', sans-serif;
+	font-family: 'Outfit', sans-serif;
 	display: flex;
-	flex-direction: column;
 	align-items: center;
 	justify-content: center;
+	line-height: 1.5;
 	height: 100vh;
-	overflow: hidden;
 	margin: 0;
+	overflow: hidden;
+}
+
+/*************** flex-boxes ***********/
+.card {
+	background: hsl(0, 0%, 100%);
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	border-radius: 20px;
+	width: 32rem;
+}
+
+.card__img-box {
+	margin: 1.5rem 0 0 0;
+	width: 90%;
+}
+
+.card__img {
+	width: 100%;
+	border-radius: 10px;
+}
+
+.card__content {
+	margin: 1rem;
+	/* border: black solid 2px; */
+	width: 90%;
+	margin: 0 1rem 1rem 1rem;
+	padding: 1rem;
+}
+
+.footer {
+	/* outline: black solid 2px; */
+	display: flex;
+	justify-content: center;
+	padding: 1rem;
+	margin-top: 30px;
+}
+
+/********** flex-items ************/
+
+.card__heading {
+	text-align: center;
+	font-weight: 700;
+	font-size: 2rem;
+	margin: .5rem;
+}
+
+.card__text {
+	color: hsl(220, 15%, 55%);
+	font-weight: 400;
+	font-size: 1.5rem;
+	text-align: center;
+	margin: 1rem;
+}
+
+.footer__attribution {
+	font-size: 1.1rem;
+	font-weight: 400;
 }
