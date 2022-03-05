@@ -40,7 +40,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-During this project, I learned to stop when I ran into problems and looked up the solution online. This reduces the amount of time I waste trying to figure it out by memory.
+During this project, I learned about flexbox and how to implement it.
 
 
 ### Continued development
