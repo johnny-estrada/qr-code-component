@@ -24,8 +24,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-MOE2gnGXm](https://www.frontendmentor.io/solutions/qr-code-component-MOE2gnGXm)
+- Live Site URL: [https://johnny-qr-code-component.netlify.app/](https://johnny-qr-code-component.netlify.app/)
 
 ## My process
 
@@ -40,7 +40,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-During this project, I learned that I need to stop when I run into a problem and look it upt. This will reduce the amount of time wasting on trying to figure it oit by memory.
+During this project, I learned to stop when I run into a problems. This reduces the amount of time I wasate trying to figure it out by memory.
 
 
 ### Continued development
