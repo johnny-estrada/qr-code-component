@@ -19,20 +19,19 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Screenshot
 
-![alt text](./images/qr-code-screenshot.jpg)
+![alt text](https://github.com/johnnye562/qr-code-component/blob/main/images/qr-code-screenshot.JPG?raw=true)
 
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/qr-code-component-MOE2gnGXm](https://www.frontendmentor.io/solutions/qr-code-component-MOE2gnGXm)
+- Live Site URL: [https://johnny-qr-code-component.netlify.app/](https://johnny-qr-code-component.netlify.app/)
 
 ## My process
 
 ### Built with
 
 - Semantic HTML5 markup
-- CSS custom properties
 - BEM 
 - Flexbox
 - Mobile-first workflow
@@ -40,7 +39,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-During this project, I learned that I need to stop when I run into a problem and look it upt. This will reduce the amount of time wasting on trying to figure it oit by memory.
+During this project, I learned about flexbox and how to implement it.
 
 
 ### Continued development
