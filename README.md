@@ -50,7 +50,7 @@ Today, I learned about flexbox and how to implement it on projects. Also, it was
 
 ### Useful resources
 
-- [resource 1](https://youtu.be/hwbqquXww-U) - This video series from Kevin Powell, really helped me understand flexbox.
+- [Flexbox Tutorial - Flexbox containers](https://youtu.be/hwbqquXww-U) - This video series from Kevin Powell, really helped me understand flexbox.
 
 
 ## Author
