@@ -39,7 +39,11 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
+<<<<<<< HEAD
 During this project, I learned about flexbox and how to implement it.
+=======
+Today, I learned about flexbox and how to implement it on projects. Also, it was the first time I pushed a project to GitHub and used BEM to structure my CSS. Still, a lot to learn, but the progress is my motivation!
+>>>>>>> 906fa9e8a551541ecf65d6372d350c39f43c1594
 
 
 ### Continued development
@@ -50,7 +54,7 @@ During this project, I learned about flexbox and how to implement it.
 
 ### Useful resources
 
-- [resource 1](https://youtu.be/hwbqquXww-U) - This video series from Kevin Powell, really helped me understand flexbox.
+- [Flexbox Tutorial - Flexbox containers](https://youtu.be/hwbqquXww-U) - This video series from Kevin Powell, really helped me understand flexbox.
 
 
 ## Author
