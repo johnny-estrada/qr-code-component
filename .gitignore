@@ -28,6 +28,6 @@ $RECYCLE.BIN/
 *.lnk
 
 # Main files
-/[Qq]r-code-component-main/
+/[Dd]esign/
 
 # End of https://www.toptal.com/developers/gitignore/api/windows
