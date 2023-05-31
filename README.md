@@ -39,7 +39,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### What I learned
 
-<<<<<<< HEAD
 During this project, I learned about flexbox and how to implement it.
 =======
 Today, I learned about flexbox and how to implement it on projects. Also, it was the first time I pushed a project to GitHub and used BEM to structure my CSS. Still, a lot to learn, but the progress is my motivation!
